@@ -1,8 +1,6 @@
-Required Sections:
-
-dataentry through JPDB 
-This is used to get data from user and store it at JPDB and perform manuplation,retrival,insertion of data
-no need to set column datatype,less code,easy to understand
+Project- dataentry through JPDB 
+Description-This is used to get data from user and store it at JPDB and perform manuplation,retrival,insertion of data
+Benefits of using JsonPowerDB- no need to set column datatype,less code,easy to understand,High Performance, Light Weight, Ajax Enabled, Serverless, Simple to Use, Real-time Database.
 Additional you can have: i was surprised when i create database in JPDB simple manner rather then mysql
 
 Table of contents- name,gmail,phonenumber
